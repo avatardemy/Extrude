@@ -1,0 +1,20 @@
+/*D8B8A1*/
+
+nav-right{
+    float:right;
+}
+
+.jumbo-bg{
+    background-image: url(../images/2d-cad.png);
+    height:180px;
+    /*background-repeat: no-repeat;*/
+}
+
+.nav-bg{
+    background-color: #D8B8A1;
+    /*-webkit-border-radius: 0px;*/
+    /*-moz-border-radius: 0px;*/
+    /*border-radius: 0px;*/
+}
+/*.post-nav{margin:5px 0px;}*/
+.h1-adjust{margin-top:5px;}
