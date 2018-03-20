@@ -5,16 +5,22 @@ nav-right{
 }
 
 .jumbo-bg{
-    background-image: url(../images/2d-cad.png);
-    height:180px;
-    /*background-repeat: no-repeat;*/
+    background-image: url(../images/origami1.jpg);
+    height:150px;
+    background-repeat: no-repeat;
+    margin-top:0px;
 }
 
 .nav-bg{
-    background-color: #D8B8A1;
+    background-color: white;
+    margin-bottom: 0px;
     /*-webkit-border-radius: 0px;*/
     /*-moz-border-radius: 0px;*/
     /*border-radius: 0px;*/
 }
 /*.post-nav{margin:5px 0px;}*/
-.h1-adjust{margin-top:5px;}
+.h1-adjust{margin-top:5px; font-weight: bold;}
+.hd-btn{width: 80px; padding: 3px;}
+.pagination-tags{text-align: center;}
+.rem-margin-top{margin-top:0px;}
+.rem-margin-bottom{margin-bottom: 0px; }
